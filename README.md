@@ -6,3 +6,5 @@ Block diagram of system on MATLAB Simulink:
 <p align = "center">
   <img src = "https://github.com/IrfanArif18/MATLAB-Simulink-PMSM-FuzzyPIDController-Experiment/blob/main/Block%20Diagram%20of%20System%20on%20MATLAB%20Simulink.png">
 </p>
+
+Side note: This model unfortunately still has many flaws.
