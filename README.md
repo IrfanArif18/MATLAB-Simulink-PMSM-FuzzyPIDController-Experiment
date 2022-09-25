@@ -1,5 +1,6 @@
 # MATLAB-Simulink-PMSM FuzzyPIDController Experiment
 MATLAB Simulink experiment of Permanent Magnet Synchronous Motor (PMSM) with Fuzzy Logic PID Controller. 
+Done for semester's final project for Sistem Kendali Motor Listrik (Electrical Motor Control System) in Universitas Indonesia (University of Indonesia), third year 2022.
 
 Block diagram of system on MATLAB Simulink:
 <p align = "center">
